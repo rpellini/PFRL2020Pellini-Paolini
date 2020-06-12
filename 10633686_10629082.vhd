@@ -1,3 +1,14 @@
+-----------------------------------------
+-- Authors: Riccardo Pellini, 10633686 --
+--          Giuseppe Paolini, 10619082 --
+-- Progetto Reti Logiche               --
+-- AA 2019-2020                        --
+-- Politecnico di Milano               --
+-----------------------------------------
+
+
+
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
